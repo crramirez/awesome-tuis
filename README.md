@@ -375,7 +375,7 @@
 - [Ashen](https://github.com/colinta/Ashen) An Elm inspired framework written in **Swift**
 - [blessed](https://github.com/chjj/blessed) A high-level terminal interface library for **Node.js**
   stateful TUI apps, complete with extensions known as [bubbles](https://github.com/charmbracelet/bubbles)
-- [casciian](https://github.com/crramirez/casciian) Text User Interface Library for **Java**
+- [casciian](https://github.com/crramirez/casciian) A Text User Interface Library for **Java**
 - [Consolonia](https://github.com/jinek/Consolonia) Dotnet core terminal-based GUI framework with support of XAML
 - [gum](https://github.com/charmbracelet/gum) A tool for glamorous **shell** scripts
 - [ink](https://github.com/vadimdemedes/ink) React for **Node.js** interactive command-line apps
